@@ -1,0 +1,17 @@
+.layout-main .layout-right .sample{margin:10px;}
+.layout-main .layout-right .sample .title{padding:50px 0 10px 0;color:#808080;font-size:18px}
+.layout-main .layout-right .sample .truncate-content{margin-bottom:10px;}
+.layout-main .layout-right .sample .truncate-content .head{overflow:hidden;max-height:400px;background-color:#f5f5f5;-webkit-border-radius:5px 5px 0 5px;border-radius:5px 5px 0 5px;padding-bottom:5px;}
+.layout-main .layout-right .sample .truncate-content .head .page .head .title{text-align:center;margin:0;padding:0;color:#08c}
+.layout-main .layout-right .sample .truncate-content .head .page .content{padding-top:0}
+.layout-main .layout-right .sample .truncate-content .more{overflow:hidden;height:auto;}
+.layout-main .layout-right .sample .truncate-content .more .link{background-color:#f5f5f5;-webkit-border-radius:0 0 5px 5px;border-radius:0 0 5px 5px;padding:2px 15px 2px 15px;float:right;}
+.layout-main .layout-right .sample .truncate-content .more .link a{color:#808080;font-size:12px}
+.layout-main .layout-right .morefiles{margin:10px;margin-top:50px;}
+.layout-main .layout-right .morefiles a{font-size:18px}
+.layout-main .layout-right .morefiles .title{color:#808080;font-size:18px;padding-left:4px;margin-bottom:10px;border-left:2px solid #ddd}
+.layout-main .layout-right .morefiles .filelink{padding:10px 0 0 20px}
+.layout-main .layout-right .subdirs{margin:10px;margin-top:50px;}
+.layout-main .layout-right .subdirs a{font-size:18px}
+.layout-main .layout-right .subdirs .title{color:#808080;font-size:18px;padding-left:4px;margin-bottom:10px;border-left:2px solid #ddd}
+.layout-main .layout-right .subdirs .dirink{padding:10px 0 0 20px}

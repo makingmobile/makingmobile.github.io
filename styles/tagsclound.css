@@ -1,0 +1,16 @@
+@media (max-width: 767px){.page-container .tagspage{margin:0 10% 0 10%}
+}.page-container .tagspage{margin:0 10% 0 10%;padding-bottom:20px;}
+.page-container .tagspage .head .canvascontainer{padding:10px;text-align:center}
+.page-container .tagspage .head .fallbackcontainer{padding:5px 10px 10px 20px;width:100%;height:auto;overflow:hidden;}
+.page-container .tagspage .head .fallbackcontainer div.tagicon{float:left;margin:2px 10px 2px 0}
+.page-container .tagspage .detail{padding-top:30px;}
+.page-container .tagspage .detail .item{padding-top:40px;margin-bottom:0;}
+.page-container .tagspage .detail .item .tag{overflow:hidden;height:auto}
+.page-container .tagspage .detail .item .list{margin:10px 0 0 30px;overflow:hidden;height:auto;}
+.page-container .tagspage .detail .item .list li{float:left;margin-left:40px}
+.page-container .tagspage .detail .item .list a{font-size:16px}
+.page-container .tagspage .tagicon a{float:left;height:24px;line-height:24px;position:relative;font-size:13px;margin-bottom:2px;overflow:initial;margin-right:20px;padding:0 12px 0 10px;background:#0089e0;color:#fff;text-decoration:none;border-bottom-left-radius:4px;border-top-left-radius:4px}
+.page-container .tagspage .tagicon a:before{content:"";float:right;position:absolute;top:0;right:-12px;width:0;height:0;border-color:transparent transparent transparent #0089e0;border-style:solid;border-width:12px 0 12px 12px}
+.page-container .tagspage .tagicon a:after{content:"";position:absolute;top:10px;right:0;float:right;width:4px;height:4px;-webkit-border-radius:2px;border-radius:2px;background:#fff;-webkit-box-shadow:-1px -1px 2px #004977;box-shadow:-1px -1px 2px #004977}
+.page-container .tagspage .tagicon a:hover{background:#555}
+.page-container .tagspage .tagicon a:hover:before{border-color:transparent #555 transparent transparent}
