@@ -1,19 +1,89 @@
-.layout-main .layout-left{padding:20px 10px 20px 10px;}
-.layout-main .layout-left a{color:#4d4d4d}
-.layout-main .layout-left .catalogs,.layout-main .layout-left .recent,.layout-main .layout-left .archives{margin-top:20px;}
-.layout-main .layout-left .catalogs .title,.layout-main .layout-left .recent .title,.layout-main .layout-left .archives .title{text-align:center;padding:5px 0 5px 5px;margin-bottom:10px;background-color:#f5f5f5;font-size:18px;font-weight:bold}
-.layout-main .layout-left .catalogs ul li,.layout-main .layout-left .recent ul li,.layout-main .layout-left .archives ul li{font-size:16px;padding:2px 0 2px 0;list-style-position:inside;white-space:nowrap;-o-text-overflow:ellipsis;text-overflow:ellipsis;overflow-x:hidden}
-.layout-main .layout-left .catalogs ul li{list-style:none;padding-left:10px}
-.layout-main .layout-left .catalogs ul li.catalog.active{border-left:3px solid #08c;padding-left:7px}
-.layout-main .layout-right{padding:20px 10px 20px 10px;}
-.layout-main .layout-right .page{padding:10px;margin-bottom:20px;}
-.layout-main .layout-right .page .head .title{text-align:center;margin-bottom:50px;margin-top:20px;color:#08c}
-.layout-main .layout-right .page .head .date{font-size:16px;font-weight:normal;margin-right:10px;float:right;color:#808080}
-.layout-main .layout-right .page .content{padding-top:1px}
-.layout-main .layout-right .page .commit{padding-top:20px}
-.layout-main .layout-right > .sample > .page{background-color:#f5f5f5;-webkit-border-radius:5px;border-radius:5px;margin-top:10px}
-.layout-main .layout-right > .morefiles{margin:10px 0 10px 0;font-size:16px;}
-.layout-main .layout-right > .morefiles .archives{margin:20px 0 0 0;}
-.layout-main .layout-right > .morefiles .archives li.yearAndMonth .title{padding:40px 0 3px 0;border-bottom:2px solid #08c}
-.layout-main .layout-right > .morefiles .archives li.yearAndMonth .links{padding-top:2px;}
-.layout-main .layout-right > .morefiles .archives li.yearAndMonth .links .link{padding-top:2px}
+.layout-main .layout-left {
+  padding: 20px 10px 20px 10px;
+}
+.layout-main .layout-left a {
+  color: #4d4d4d;
+}
+.layout-main .layout-left .catalogs,
+.layout-main .layout-left .recent,
+.layout-main .layout-left .archives {
+  margin-top: 20px;
+}
+.layout-main .layout-left .catalogs .title,
+.layout-main .layout-left .recent .title,
+.layout-main .layout-left .archives .title {
+  text-align: center;
+  padding: 5px 0px 5px 5px;
+  margin-bottom: 10px;
+  background-color: #f5f5f5;
+  font-size: 18px;
+  font-weight: bold;
+}
+.layout-main .layout-left .catalogs ul li,
+.layout-main .layout-left .recent ul li,
+.layout-main .layout-left .archives ul li {
+  font-size: 16px;
+  padding: 2px 0px 2px 0px;
+  list-style-position: inside;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  overflow-x: hidden;
+}
+.layout-main .layout-left .catalogs ul li {
+  list-style: none;
+  padding-left: 10px;
+}
+.layout-main .layout-left .catalogs ul li.catalog.active {
+  border-left: 3px solid #08c;
+  padding-left: 7px;
+}
+.layout-main .layout-right {
+  padding: 20px 10px 20px 10px;
+}
+.layout-main .layout-right .page {
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.layout-main .layout-right .page .head .title {
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  color: #08c;
+}
+.layout-main .layout-right .page .head .date {
+  font-size: 16px;
+  font-weight: normal;
+  margin-right: 10px;
+  float: right;
+  color: #808080;
+}
+.layout-main .layout-right .page .content {
+  padding-top: 1px;
+}
+.layout-main .layout-right .page .commit {
+  padding-top: 20px;
+}
+.layout-main .layout-right > .sample > .page {
+  background-color: #f5f5f5;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.layout-main .layout-right > .morefiles {
+  margin: 10px 0px 10px 0px;
+  font-size: 16px;
+}
+.layout-main .layout-right > .morefiles .archives {
+  margin: 20px 0px 0px 0px;
+}
+.layout-main .layout-right > .morefiles .archives li.yearAndMonth .title {
+  padding: 40px 0px 3px 0px;
+  border-bottom: 2px solid #08c;
+}
+.layout-main .layout-right > .morefiles .archives li.yearAndMonth .links {
+  padding-top: 2px;
+}
+.layout-main .layout-right > .morefiles .archives li.yearAndMonth .links .link {
+  padding-top: 2px;
+}
