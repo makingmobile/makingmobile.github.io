@@ -3,7 +3,7 @@
 	<title>mm框架</title>
 	<link href="http://makingmobile.org/atom.xml" rel="self"/>
 	<link href="http://makingmobile.org"/>
-	<updated>2013-05-26T12:18:15.540Z</updated>
+	<updated>2013-05-26T14:43:30.597Z</updated>
 	<id>http://makingmobile.org</id>
 	<author>
 		<name>MakingMobile Team</name>
@@ -38,17 +38,17 @@
 	
 		<entry>
 			<title>站点发布</title>
-			<link href="http://makingmobile.org/blog/events/2013-05-24-site-ready"/>
+			<link href="http://makingmobile.org/blog/events/2013-05-24-site-ready2"/>
 			<updated>2013-05-24T08:15:40.000Z</updated>
-			<id>http://makingmobile.org/blog/events/2013-05-24-site-ready</id>
+			<id>http://makingmobile.org/blog/events/2013-05-24-site-ready2</id>
 			<summary >on git hub pages. ...</summary>
 		</entry>
 	
 		<entry>
 			<title>站点发布</title>
-			<link href="http://makingmobile.org/blog/events/2013-05-24-site-ready2"/>
+			<link href="http://makingmobile.org/blog/events/2013-05-24-site-ready"/>
 			<updated>2013-05-24T08:15:40.000Z</updated>
-			<id>http://makingmobile.org/blog/events/2013-05-24-site-ready2</id>
+			<id>http://makingmobile.org/blog/events/2013-05-24-site-ready</id>
 			<summary >on git hub pages. ...</summary>
 		</entry>
 	
@@ -496,10 +496,10 @@ dsfasdfsdf ...</summary>
 		</entry>
 	
 		<entry>
-			<title>services</title>
-			<link href="http://makingmobile.org/docs/services/index"/>
+			<title>plugins</title>
+			<link href="http://makingmobile.org/docs/plugins/index"/>
 			<updated>2013-05-20T06:44:46.000Z</updated>
-			<id>http://makingmobile.org/docs/services/index</id>
+			<id>http://makingmobile.org/docs/plugins/index</id>
 			<summary > ...</summary>
 		</entry>
 	
@@ -536,10 +536,10 @@ dsfasdfsdf ...</summary>
 		</entry>
 	
 		<entry>
-			<title>plugins</title>
-			<link href="http://makingmobile.org/docs/plugins/index"/>
+			<title>services</title>
+			<link href="http://makingmobile.org/docs/services/index"/>
 			<updated>2013-05-20T06:44:46.000Z</updated>
-			<id>http://makingmobile.org/docs/plugins/index</id>
+			<id>http://makingmobile.org/docs/services/index</id>
 			<summary > ...</summary>
 		</entry>
 	

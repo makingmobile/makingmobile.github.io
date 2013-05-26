@@ -2,9 +2,9 @@
 .text_bar .btn_1{margin-right:10px !important}
 }a.forkme{display:inline-block;position:absolute;top:0;right:0;z-index:10}
 .banner{background:url("../images/banner-back.png") top left repeat-x #151515}
-.banner .hidden-desktop center{color:#fff;background:url("../images/banner-mask.png") no-repeat top center}
+.banner .hidden-desktop center{color:#fff;background:url("../images/banner-mask.png")}
 .banner .hidden-desktop center img{width:50%}
-#myCarousel{height:472px;background:url("../images/banner-mask.png") no-repeat top center;position:relative}
+#myCarousel{height:472px;background:url("../images/banner-mask.png");position:relative}
 #myCarousel{margin-bottom:0 !important}
 .carousel-inner .item{height:472px}
 .carousel-inner .item1 div.img{position:absolute;top:20px;right:10%;width:40%}
