@@ -3,9 +3,9 @@
 .layout-main .layout-left .float-container a{white-space:nowrap;-o-text-overflow:ellipsis;text-overflow:ellipsis;overflow-x:hidden}
 .layout-main .layout-left .switch{opacity:.7;filter:alpha(opacity=70);-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";cursor:pointer;margin-bottom:20px;}
 .layout-main .layout-left .switch .delimiter{color:#08c;font-weight:bold;margin-left:2px;margin-right:2px}
-.layout-main .layout-left .switch .catalog,.layout-main .layout-left .switch .page{padding-bottom:5px}
-.layout-main .layout-left .switch .catalog.active,.layout-main .layout-left .switch .page.active{border-bottom:2px solid #08c}
-.layout-main .layout-left .switch .catalog:hover,.layout-main .layout-left .switch .page:hover{border-bottom:3px solid #08c}
+.layout-main .layout-left .switch .catelog,.layout-main .layout-left .switch .page{padding-bottom:5px}
+.layout-main .layout-left .switch .catelog.active,.layout-main .layout-left .switch .page.active{border-bottom:2px solid #08c}
+.layout-main .layout-left .switch .catelog:hover,.layout-main .layout-left .switch .page:hover{border-bottom:3px solid #08c}
 .layout-main .layout-left .switch:hover{opacity:1;-ms-filter:none;filter:none}
 .layout-main .layout-left .left-menu{display:none}
 .layout-main .layout-left .left-menu.active{display:block}
