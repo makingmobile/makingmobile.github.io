@@ -3,7 +3,7 @@
 	<title>mm框架</title>
 	<link href="http://makingmobile.org/atom.xml" rel="self"/>
 	<link href="http://makingmobile.org"/>
-	<updated>2013-05-29T11:13:08.729Z</updated>
+	<updated>2013-05-29T12:14:30.529Z</updated>
 	<id>http://makingmobile.org</id>
 	<author>
 		<name>MakingMobile Team</name>
@@ -481,17 +481,17 @@ dsfasdfsdf ...</summary>
 	
 		<entry>
 			<title>dummy</title>
-			<link href="http://makingmobile.org/docs/core/deep1/deep2/deep3/dummy"/>
+			<link href="http://makingmobile.org/docs/deploy/dummy"/>
 			<updated>2013-05-20T06:45:34.000Z</updated>
-			<id>http://makingmobile.org/docs/core/deep1/deep2/deep3/dummy</id>
+			<id>http://makingmobile.org/docs/deploy/dummy</id>
 			<summary >i am dummy ...</summary>
 		</entry>
 	
 		<entry>
 			<title>dummy</title>
-			<link href="http://makingmobile.org/docs/deploy/dummy"/>
+			<link href="http://makingmobile.org/docs/core/deep1/deep2/deep3/dummy"/>
 			<updated>2013-05-20T06:45:34.000Z</updated>
-			<id>http://makingmobile.org/docs/deploy/dummy</id>
+			<id>http://makingmobile.org/docs/core/deep1/deep2/deep3/dummy</id>
 			<summary >i am dummy ...</summary>
 		</entry>
 	
@@ -528,18 +528,18 @@ dsfasdfsdf ...</summary>
 		</entry>
 	
 		<entry>
-			<title>tools</title>
-			<link href="http://makingmobile.org/docs/tools/index"/>
-			<updated>2013-05-20T06:44:46.000Z</updated>
-			<id>http://makingmobile.org/docs/tools/index</id>
-			<summary > ...</summary>
-		</entry>
-	
-		<entry>
 			<title>plugins</title>
 			<link href="http://makingmobile.org/docs/plugins/index"/>
 			<updated>2013-05-20T06:44:46.000Z</updated>
 			<id>http://makingmobile.org/docs/plugins/index</id>
+			<summary > ...</summary>
+		</entry>
+	
+		<entry>
+			<title>bad of api</title>
+			<link href="http://makingmobile.org/docs/api/bad-of-api/index"/>
+			<updated>2013-05-20T06:44:46.000Z</updated>
+			<id>http://makingmobile.org/docs/api/bad-of-api/index</id>
 			<summary > ...</summary>
 		</entry>
 	
@@ -560,18 +560,18 @@ dsfasdfsdf ...</summary>
 		</entry>
 	
 		<entry>
-			<title>bad of api</title>
-			<link href="http://makingmobile.org/docs/api/bad-of-api/index"/>
-			<updated>2013-05-20T06:44:46.000Z</updated>
-			<id>http://makingmobile.org/docs/api/bad-of-api/index</id>
-			<summary > ...</summary>
-		</entry>
-	
-		<entry>
 			<title>deep3</title>
 			<link href="http://makingmobile.org/docs/core/deep1/deep2/deep3/index"/>
 			<updated>2013-05-20T06:44:46.000Z</updated>
 			<id>http://makingmobile.org/docs/core/deep1/deep2/deep3/index</id>
+			<summary > ...</summary>
+		</entry>
+	
+		<entry>
+			<title>tools</title>
+			<link href="http://makingmobile.org/docs/tools/index"/>
+			<updated>2013-05-20T06:44:46.000Z</updated>
+			<id>http://makingmobile.org/docs/tools/index</id>
 			<summary > ...</summary>
 		</entry>
 	
