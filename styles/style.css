@@ -59,7 +59,7 @@ body > .navbar .brand:hover{text-decoration:none;text-shadow:0 1px 0 rgba(255,25
 #__stayconnect_block__ .info_block .recent-post ul li:before{content:'';background:url("/images/sprite.png") 0 0 no-repeat;position:absolute;top:6px;left:0;display:block;width:5px;height:5px}
 #__stayconnect_block__ .info_block .subscribe p:last-child{text-align:right}
 #__stayconnect_block__ .info_block .subscribe p{padding:0 0 7px 0;margin:0;}
-#__stayconnect_block__ .info_block .subscribe p input{font:13px 'PT Sans';color:#626363;border:1px solid #c0bebe;background:#f6f3f3;padding:5px 10px;width:190px}
+#__stayconnect_block__ .info_block .subscribe p input{font:13px 'PT Sans';color:#626363;border:1px solid #c0bebe;background:#f6f3f3;padding:5px 10px;width:80%}
 #__stayconnect_block__ .info_block .subscribe p input[type="submit"]{cursor:pointer;font-weight:bold;font-style:italic;color:#3fa3c9;width:113px;height:42px;padding:0;border:none;background:url("/images/sprite.png") 0 -73px no-repeat}
 @media (max-width: 979px){body .page-container{padding-top:0 !important}
 body .navbar-fixed-top{margin-bottom:0 !important}
